@@ -1,1 +1,3 @@
-# Emilito2007.github.io
+# SeñApp
+## Aprende LSA todos los dias
+SeñApp es una web app gamificada que busca enseñar a todas las personas el lenguaje de señas
